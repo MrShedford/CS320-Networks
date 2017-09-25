@@ -1,2 +1,4 @@
-# CS320-Networks
-This is a collection of all the labs and lecture notes for CS320
+h1 CS320 Lecture Slides & Labs
+
+h2 All labs contained in Labs folder, including relevant pdf for the lab
+h2 All lecture slides contained in the lecture slides folder
